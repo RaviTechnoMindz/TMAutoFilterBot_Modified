@@ -1,8 +1,8 @@
-<h2 align="centre"><i><b>💖TECHNO MINDZ BOT-1💝</i></b></h2>
+<h2 align="centre"><i><b>💖TECHNO MINDZ BOT-4💝</i></b></h2>
 
+# ADDED EXTRA BUTTONS
 
-
-<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="500"></a></p>
+<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="600"></a></p>
 
 # Introduction
 
@@ -21,20 +21,12 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/CommonBot_For_All">
+<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/TMAutoFilterBot_Modified">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
   
-<details><summary>Deploy From Bot</summary>
-<p>
-<br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=VGVjaG5vTWluZHovQ29tbW9uQm90X0Zvcl9BbGwgbWFzdGVy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
 
@@ -86,6 +78,7 @@
 ## CUSTOM FILE CAPTION
 ```
 <code>{file_name}</code>
+MADE BY @TmMainChannel
   
 ```
 ## CREATED BY
